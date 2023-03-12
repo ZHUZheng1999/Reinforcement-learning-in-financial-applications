@@ -1,14 +1,12 @@
 # The description of the files
 
-## td_method.py
+## q_learning.ipynb
 
-It's the code file which we accomplish the discrete time asset allocation by td method.
+It's the code file which we accomplish the discrete time asset allocation by q_learning.
 
-## td_method_e_greedy.py
+## report.pdf
 
-It's the code file which we add the e-greedy in the process of training based on the td method.
+It's the report which we summarize the methods that we use and the results that we get plus the general solution that we derive by mathematical implementation.
 
-## td_method_e_greedy_add_reward.py
 
-It's the code file which we add the reward to every state instead of giving reward only at the end of the period.
 
